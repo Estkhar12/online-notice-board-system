@@ -8,7 +8,7 @@
     "start": "node ./src/bin/www",
     "dev": "nodemon ./src/bin/www"
   },
-  "author": "Afzal Imam",
+  "author": "Estkhar Ansari"
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
